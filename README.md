@@ -31,9 +31,11 @@ A quick reboot later and I could browse to the IP of the Pi and there it was, fi
 ### Configuration
 So, first question was how to get to the admin panel... See that _"Your Logo Here"_ sign in the top left... click that!
 
-Now you should see a page like this:
-![admin login](images/rpints_login.png)
+Now you should see a page like this:</br>
+![admin login](images/rpints_login.png)</br>
+
 I tried the usual combination of admin/admin, admin/blank, root/root etc but to save anyone who reads this the pain just press **Log in** and leave both fields empty.
 
-My suggestion is that the first thing you do is head over to the left side menu and **Drinker accounts** where you can click change password:
+My suggestion is that the first thing you do is head over to the left side menu and **Drinker accounts** where you can click change password:</br>
+
 ![change password](images/rpints_password.png)
