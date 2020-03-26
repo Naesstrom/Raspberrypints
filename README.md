@@ -17,16 +17,16 @@
 - [ ] Connect PIR sensor to PI
 - [ ] Have a beer!
 
-## Install and config rpints
-This turned out to be easier then I had expected, and at the same time more confusing. Reading the [docs](http://raspberrypints.com/byo/) it's 9 different steps if done with flow meters and most of it is coding, changing settings and installing packages!
+    ## Install and config rpints
+    This turned out to be easier then I had expected, and at the same time more confusing. Reading the [docs](http://raspberrypints.com/byo/) it's 9 different steps if done with flow meters and most of it is coding, changing settings and installing packages!
 
-Well someone over at the [homebrewtalk forum](https://support.rpints.com/) made it a whole lot easier for everyone. I just installed the latest OS with raspberrys own tool, opened a terminal and entered: `curl -L install.rpints.com | sudo bash`
+    Well someone over at the [homebrewtalk forum](https://support.rpints.com/) made it a whole lot easier for everyone. I just installed the latest OS with raspberrys own tool, opened a terminal and entered: `curl -L install.rpints.com | sudo bash`
 
-That led me straight through a bunch of options, did I want to use flow meters yes/no, install sample data etc.
+    That led me straight through a bunch of options, did I want to use flow meters yes/no, install sample data etc.
 
-A quick reboot later and I could browse to the IP of the Pi and there it was, filled with example information and looking groovy already!
+    A quick reboot later and I could browse to the IP of the Pi and there it was, filled with example information and looking groovy already!
 
-![example screen](images/rpints_welcome.jpg)
+    ![example screen](images/rpints_welcome.jpg)
 
 ### Configuration
 So, first question was how to get to the admin panel... See that _"Your Logo Here"_ sign in the top left... click that!
